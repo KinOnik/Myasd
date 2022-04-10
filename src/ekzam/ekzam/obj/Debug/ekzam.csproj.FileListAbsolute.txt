@@ -1,0 +1,12 @@
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\bin\Debug\ekzam.exe.config
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\bin\Debug\ekzam.exe
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\bin\Debug\ekzam.pdb
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.Form1.resources
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.Form2.resources
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.Properties.Resources.resources
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.exe
+C:\Users\Andrey\Desktop\ekz\src\ekzam\ekzam\obj\Debug\ekzam.pdb
